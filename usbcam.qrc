@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/erase.png</file>
+        <file>images/erasepressed.png</file>
+        <file>images/nextpage.png</file>
+        <file>images/nextpagepressed.png</file>
+        <file>images/photo.png</file>
+        <file>images/photopressed.png</file>
+        <file>images/prevpage.png</file>
+        <file>images/prevpagepressed.png</file>
+        <file>images/record.png</file>
+        <file>images/replay.png</file>
+        <file>images/replaypressed.png</file>
+        <file>images/return.png</file>
+        <file>images/return3.png</file>
+        <file>images/returnpressed.png</file>
+        <file>images/returnpressed3.png</file>
+        <file>images/settings.png</file>
+        <file>images/settingspressed.png</file>
+        <file>images/yes.png</file>
+        <file>images/no.png</file>
+        <file>images/pct.png</file>
+        <file>images/stop.png</file>
+        <file>images/videotag.png</file>
+        <file>images/init.png</file>
+        <file>images/plus.png</file>
+        <file>images/pluspressed.png</file>
+        <file>images/minus.png</file>
+        <file>images/minuspressed.png</file>
+        <file>images/ir.png</file>
+        <file>images/iconfolder.png</file>
+        <file>images/iconphoto.png</file>
+        <file>images/iconvideo.png</file>
+    </qresource>
+</RCC>
